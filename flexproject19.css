@@ -110,7 +110,7 @@ body {
     margin: 2em auto;
     
 }
-.hero__image {
+.hero_image {
   max-width: 100%;
   width: 400px;
   margin: 2em auto;
@@ -313,4 +313,5 @@ body {
         width: 100%;
     }
 }
+
 
